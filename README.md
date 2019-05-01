@@ -1,7 +1,7 @@
 # NodeJS Server in ECS (AWS)
 
 ## Purpose
-Learn about hosting a NodeJS service in ECS.
+Learn about hosting a NodeJS service in ECS. I'm using this project to learn about building and hosting a NodeJS service in ECS.
 
 ## Prerequisites
  * An Amazon AWS account
