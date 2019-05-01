@@ -1,0 +1,4 @@
+# Git ignore file for NodeJS Server (ECS Test)
+
+# Node module (dependencies)
+/node_modules
